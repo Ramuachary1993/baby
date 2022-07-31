@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1659244813,,"wq"
+|2,0,1659245914,,"wq"
 :q
 |2,0,1659243318,,"q"
 
@@ -25,16 +25,49 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""0	LINE	0
+	Hello Good MOrning ...111
+|3,1,0,1,1,0,1659245296,"Hello Good MOrning ...111"
 
 # File marks:
-'0  1  23  ~/myown/demo1.txt
-|4,48,1,23,1659244813,"~/myown/demo1.txt"
-'1  1  24  ~/demo.txt
-|4,49,1,24,1659243318,"~/demo.txt"
-'2  1  24  ~/demo.txt
-|4,50,1,24,1659241901,"~/demo.txt"
+'0  3  0  ~/demo.txt
+|4,48,3,0,1659245914,"~/demo.txt"
+'1  2  24  ~/demo.txt
+|4,49,2,24,1659245080,"~/demo.txt"
+'2  2  24  ~/demo.txt
+|4,50,2,24,1659245080,"~/demo.txt"
+'3  1  23  ~/myown/demo1.txt
+|4,51,1,23,1659244813,"~/myown/demo1.txt"
+'4  1  24  ~/demo.txt
+|4,52,1,24,1659243318,"~/demo.txt"
+'5  1  24  ~/demo.txt
+|4,53,1,24,1659243318,"~/demo.txt"
+'6  1  24  ~/demo.txt
+|4,54,1,24,1659243318,"~/demo.txt"
+'7  1  24  ~/demo.txt
+|4,55,1,24,1659243318,"~/demo.txt"
+'8  1  24  ~/demo.txt
+|4,56,1,24,1659241901,"~/demo.txt"
+'9  1  24  ~/demo.txt
+|4,57,1,24,1659241901,"~/demo.txt"
 
 # Jumplist (newest first):
+-'  3  0  ~/demo.txt
+|4,39,3,0,1659245914,"~/demo.txt"
+-'  2  24  ~/demo.txt
+|4,39,2,24,1659245108,"~/demo.txt"
+-'  2  24  ~/demo.txt
+|4,39,2,24,1659245080,"~/demo.txt"
+-'  1  24  ~/demo.txt
+|4,39,1,24,1659245053,"~/demo.txt"
+-'  1  24  ~/demo.txt
+|4,39,1,24,1659245053,"~/demo.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
 -'  1  23  ~/myown/demo1.txt
 |4,39,1,23,1659244813,"~/myown/demo1.txt"
 -'  1  24  ~/demo.txt
@@ -48,16 +81,18 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/demo.txt
+	*	1659245912	0
+	"	3	0
+	^	2	0
+	.	3	0
+	+	1	24
+	+	2	25
+	+	3	0
+
 > ~/myown/demo1.txt
 	*	1659244812	0
 	"	1	23
 	^	1	24
 	.	1	23
 	+	1	23
-
-> ~/demo.txt
-	*	1659243316	0
-	"	1	24
-	^	1	25
-	.	1	24
-	+	1	24
