@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1659246643,,"wq"
+|2,0,1659246697,,"wq"
 :q
 |2,0,1659243318,,"q"
 
@@ -30,34 +30,42 @@
 |3,1,0,1,1,0,1659246627,"Hello Good MOrning ...111"
 
 # File marks:
-'0  4  24  ~/demo.txt
-|4,48,4,24,1659246643,"~/demo.txt"
-'1  3  0  ~/demo.txt
-|4,49,3,0,1659245914,"~/demo.txt"
-'2  3  0  ~/demo.txt
-|4,50,3,0,1659245914,"~/demo.txt"
-'3  2  24  ~/demo.txt
-|4,51,2,24,1659245080,"~/demo.txt"
-'4  2  24  ~/demo.txt
-|4,52,2,24,1659245080,"~/demo.txt"
-'5  2  24  ~/demo.txt
-|4,53,2,24,1659245080,"~/demo.txt"
-'6  2  24  ~/demo.txt
-|4,54,2,24,1659245080,"~/demo.txt"
-'7  1  23  ~/myown/demo1.txt
-|4,55,1,23,1659244813,"~/myown/demo1.txt"
-'8  1  24  ~/demo.txt
-|4,56,1,24,1659243318,"~/demo.txt"
-'9  1  24  ~/demo.txt
-|4,57,1,24,1659243318,"~/demo.txt"
+'0  5  24  ~/demo.txt
+|4,48,5,24,1659246697,"~/demo.txt"
+'1  4  24  ~/demo.txt
+|4,49,4,24,1659246643,"~/demo.txt"
+'2  4  24  ~/demo.txt
+|4,50,4,24,1659246643,"~/demo.txt"
+'3  3  0  ~/demo.txt
+|4,51,3,0,1659245914,"~/demo.txt"
+'4  3  0  ~/demo.txt
+|4,52,3,0,1659245914,"~/demo.txt"
+'5  3  0  ~/demo.txt
+|4,53,3,0,1659245914,"~/demo.txt"
+'6  3  0  ~/demo.txt
+|4,54,3,0,1659245914,"~/demo.txt"
+'7  2  24  ~/demo.txt
+|4,55,2,24,1659245080,"~/demo.txt"
+'8  2  24  ~/demo.txt
+|4,56,2,24,1659245080,"~/demo.txt"
+'9  2  24  ~/demo.txt
+|4,57,2,24,1659245080,"~/demo.txt"
 
 # Jumplist (newest first):
+-'  5  24  ~/demo.txt
+|4,39,5,24,1659246697,"~/demo.txt"
+-'  4  24  ~/demo.txt
+|4,39,4,24,1659246677,"~/demo.txt"
 -'  4  24  ~/demo.txt
 |4,39,4,24,1659246643,"~/demo.txt"
 -'  3  0  ~/demo.txt
 |4,39,3,0,1659246625,"~/demo.txt"
 -'  3  0  ~/demo.txt
+|4,39,3,0,1659246625,"~/demo.txt"
+-'  3  0  ~/demo.txt
 |4,39,3,0,1659245914,"~/demo.txt"
+-'  2  24  ~/demo.txt
+|4,39,2,24,1659245108,"~/demo.txt"
 -'  2  24  ~/demo.txt
 |4,39,2,24,1659245108,"~/demo.txt"
 -'  2  24  ~/demo.txt
@@ -70,6 +78,24 @@
 |4,39,1,24,1659245053,"~/demo.txt"
 -'  1  24  ~/demo.txt
 |4,39,1,24,1659245053,"~/demo.txt"
+-'  1  24  ~/demo.txt
+|4,39,1,24,1659245053,"~/demo.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
 -'  1  23  ~/myown/demo1.txt
 |4,39,1,23,1659244813,"~/myown/demo1.txt"
 -'  1  23  ~/myown/demo1.txt
@@ -98,14 +124,15 @@
 # History of marks within files (newest to oldest):
 
 > ~/demo.txt
-	*	1659246643	0
-	"	4	24
-	^	4	25
-	.	4	24
+	*	1659246695	0
+	"	5	24
+	^	5	25
+	.	5	25
 	+	1	24
 	+	2	25
 	+	3	0
 	+	4	24
+	+	5	25
 
 > ~/myown/demo1.txt
 	*	1659244812	0
