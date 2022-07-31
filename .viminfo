@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1659244813,,"wq"
 :q
 |2,0,1659243318,,"q"
-:wq
-|2,0,1659241901,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,18 +27,33 @@
 # Registers:
 
 # File marks:
-'0  1  24  ~/demo.txt
-|4,48,1,24,1659243318,"~/demo.txt"
+'0  1  23  ~/myown/demo1.txt
+|4,48,1,23,1659244813,"~/myown/demo1.txt"
 '1  1  24  ~/demo.txt
-|4,49,1,24,1659241901,"~/demo.txt"
+|4,49,1,24,1659243318,"~/demo.txt"
+'2  1  24  ~/demo.txt
+|4,50,1,24,1659241901,"~/demo.txt"
 
 # Jumplist (newest first):
+-'  1  23  ~/myown/demo1.txt
+|4,39,1,23,1659244813,"~/myown/demo1.txt"
+-'  1  24  ~/demo.txt
+|4,39,1,24,1659243318,"~/demo.txt"
 -'  1  24  ~/demo.txt
 |4,39,1,24,1659243318,"~/demo.txt"
 -'  1  24  ~/demo.txt
 |4,39,1,24,1659241901,"~/demo.txt"
+-'  1  24  ~/demo.txt
+|4,39,1,24,1659241901,"~/demo.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/myown/demo1.txt
+	*	1659244812	0
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	23
 
 > ~/demo.txt
 	*	1659243316	0
